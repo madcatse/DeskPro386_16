@@ -15,7 +15,7 @@ PALASM can be converted into CUPL for use with WinCUPL/II and modern ATF16V8B an
 Compaq DeskPro 386/16 Technical Guide https://archive.org/details/compaq-desk-pro-386-technical-reference-guide-vol-1-1986-09
 COmpaq DeskPro 386/16 Internal Design Document https://archive.org/details/compaq-desk-pro-386-technical-reference-guide-vol-1-1986-09
 
-##KiCad Schematics
+## KiCad Schematics
 The Internal Design Document schematics have been reproduced in KiCad 10.
 I have layed them out in one big diagram so that related pages are closer together to make tracing labels easier.
 I find decomposed diagrams over many pages more difficult to understand.
@@ -34,7 +34,7 @@ Symbols with BB in the name tend to match the physical pin layout so that the sc
 The layout dimensions are very large (almost twice as big as A0 paper size) at 40" x 70".
 PDF readers may have problems dealing with the schematic.
 
-##Programmable Logic Definitions
+## Programmable Logic Definitions
 There are two versions of the Internal Design Document, text mode and photo mode.
 Generally I have used text mode to convert the content but sometimes photo mode is better.
 The main issues in converting the logic definitions have been confusions between numeric 0 and letter O and letter l and numeric 1.
