@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "386_draft") (type "KiCad") (uri "${KIPRJMOD}/libs/386_draft.pretty") (options "") (descr ""))
+)
