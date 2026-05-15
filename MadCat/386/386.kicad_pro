@@ -924,12 +924,12 @@
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "U80",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Value"
+      "sort_field": "Reference"
     },
     "bus_aliases": {
       "BABus": [
